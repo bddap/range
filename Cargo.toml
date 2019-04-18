@@ -1,0 +1,9 @@
+[package]
+name = "range"
+version = "0.1.0"
+authors = ["Andrew Dirksen <andrew@dirksen.com>"]
+edition = "2018"
+description = "print a range of numbers to stdout"
+
+[dependencies]
+structopt = "0.2.15"
